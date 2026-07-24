@@ -1,0 +1,11 @@
+bin/
+obj/
+logs/
+*.user
+*.suo
+.vs/
+*.nupkg
+*.snupkg
+.DS_Store
+Thumbs.db
+docs/Backup_*/
