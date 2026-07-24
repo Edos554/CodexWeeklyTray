@@ -1,4 +1,5 @@
 <img width="466" height="93" alt="スクリーンショット 2026-07-24 234005" src="https://github.com/user-attachments/assets/caa9c534-1eb7-4e26-89f1-d4253973bef1" />
+
 # Codex Weekly Tray
 
 Codex Weekly Tray is a small Windows tray app that shows Codex weekly rate-limit usage from the local Codex CLI.
